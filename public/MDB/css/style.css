@@ -1,0 +1,13 @@
+.all{
+    margin-top: 30px;
+}
+.profile_img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    border-radius: 50%;
+    margin-right: 25px;
+    border : black;
+}
+
+.card-comments img{width:4rem}
